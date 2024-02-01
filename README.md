@@ -38,6 +38,28 @@ The script calculates the log-likelihood of the data under various specified Gau
 
 Lastly, the script identifies the model (pair of parameter values) that achieves the maximum log-likelihood value among all tested values.
 
+
+![q1_result](https://github.com/libbyyosef/Machine-Learning---Univariate-and-Multivariate-Gaussian-Estimation/assets/36642026/8e5cef44-53b0-4096-89b5-ce3db4babf34)
+
+
+![q2_graph](https://github.com/libbyyosef/Machine-Learning---Univariate-and-Multivariate-Gaussian-Estimation/assets/36642026/68212ce4-438a-4dd0-817b-f822aab6e8e3)
+
+
+![q3_graph](https://github.com/libbyyosef/Machine-Learning---Univariate-and-Multivariate-Gaussian-Estimation/assets/36642026/ce6d5b3f-f536-49ce-8671-9707aba28dcf)
+
+
+![q4_cov](https://github.com/libbyyosef/Machine-Learning---Univariate-and-Multivariate-Gaussian-Estimation/assets/36642026/e3bb08ec-2721-42d8-bf64-4eeb4684e8dc)
+
+
+![q4_mu](https://github.com/libbyyosef/Machine-Learning---Univariate-and-Multivariate-Gaussian-Estimation/assets/36642026/5adeb23f-736e-4551-a84c-a0bb53c74c9f)
+
+
+![q5_graph](https://github.com/libbyyosef/Machine-Learning---Univariate-and-Multivariate-Gaussian-Estimation/assets/36642026/9a91a459-297d-4dff-bac7-f97e8ac5ad91)
+
+
+![q6_max_log_likelihood](https://github.com/libbyyosef/Machine-Learning---Univariate-and-Multivariate-Gaussian-Estimation/assets/36642026/057ea4c5-b609-47e6-90ff-a7539625b462)
+
+
 **Instructions**
 
 To use these estimators:
